@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934334756865",
+    "firebase_url": "https://tarea-firebase-48db9.firebaseio.com",
+    "project_id": "tarea-firebase-48db9",
+    "storage_bucket": "tarea-firebase-48db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934334756865:android:e68e6d87a7114f57f22800",
+        "android_client_info": {
+          "package_name": "com.example.perfillogeado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934334756865-jhpcerd52n1tenvd13di85mu459m6cir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.perfillogeado",
+            "certificate_hash": "adcc83fa42db36f18abb561d0c0e7821483f2762"
+          }
+        },
+        {
+          "client_id": "934334756865-a88b732d33gfeooqt4l9p5sbr0tekrgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCFNrDB5WX8sRM5FCux479yE-iHJLfoA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934334756865-a88b732d33gfeooqt4l9p5sbr0tekrgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
